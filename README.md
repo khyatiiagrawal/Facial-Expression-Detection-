@@ -1,8 +1,7 @@
 ## Overview
-Realtime Emotion Detection Using Keras
-Overviw and real time outputs of the project lies in Mini Presentation.pdf
+Realtime Emotion Detection Using Keras.Program is trained for 200 epochs and runs at 60% accuracy. Overview and real time outputs of the project lies in Mini Presentation.pdf
 
-Program is trained for 200 epochs and runs at 60% accuracy.
+
 
 ### Dependencies:
 * pip install numpy
